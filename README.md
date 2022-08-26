@@ -1,9 +1,9 @@
 # sart-bloklar-
-dolar= 21
-euro= 20
-if euro>dolar:
-  print("euro")
-elif dolar>euro: 
-  print("dolar")
-else:  
-  print("eşitler")
+dolar= 21<br>
+euro= 20<br>
+if euro>dolar:<br>
+  print("euro")<br>
+elif dolar>euro: <br>
+  print("dolar")<br>
+else:  <br>
+  print("eşitler")<br>
